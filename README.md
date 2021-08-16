@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jørgen</h1>
 <h3 align="center">A passionate student and backend developer from Norway</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgendev&label=Profile%20views&color=0e75b6&style=flat" alt="jorgendev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgendev&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="jorgendev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgendev" alt="jorgendev" /></a> </p>
 
@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgendev&show_icons=true&locale=en" alt="jorgendev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgendev&theme=radical" alt="jorgendev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgendev&theme=onedark" alt="jorgendev" /></p>

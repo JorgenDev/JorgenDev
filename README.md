@@ -2,6 +2,12 @@
 
 ###
 
+<div align="left">
+  <img height="150" src="https://camo.githubusercontent.com/b57c3840cf0a081794887f66012703b69daf02b52c3c72d6c6893d6ed256638c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c314a397955363141355a78614579656b2f67697068792e676966"  />
+</div>
+
+###
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=RobotoMono&size=25&duration=3000&pause=1000&color=E8E6E3&multiline=true&width=435&height=75&lines=Hi+%F0%9F%91%8B!+My+name+is+Jorgen;I'm+am+a+full-stack+developer" alt="Typing SVG" /></a>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JorgenDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />

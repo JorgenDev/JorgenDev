@@ -1,3 +1,6 @@
+![Profile views counter](https://komarev.com/ghpvc/?username=jorgendev&&style=flat-square)  
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=RobotoMono&size=25&duration=3000&pause=1000&color=E8E6E3&multiline=true&width=435&height=75&lines=Hi+%F0%9F%91%8B!+My+name+is+Jorgen;I'm+am+a+full-stack+developer" alt="Typing SVG" /></a>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JorgenDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -48,9 +51,5 @@
 
 ###
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1145054842&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>
-
-
-![Profile views counter](https://komarev.com/ghpvc/?username=jorgendev&&style=flat-square)  
-
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11101267411&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>
 <br clear="both">

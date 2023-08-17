@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B!" alt="Typing SVG" /></a>
-<h2 align="left">Hi 👋! My name is Jorgen and I'm a webdeveloper from Norway</h2>
+<h2 align="left" margin-top="0">Hi 👋! My name is Jorgen and I'm a webdeveloper from Norway</h2>
 
 ###
 

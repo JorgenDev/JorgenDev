@@ -17,10 +17,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/l1J9yU61A5ZxaEyek/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />

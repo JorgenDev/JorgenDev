@@ -9,10 +9,12 @@
 
 <div align="left">
   <img height="150" src="https://camo.githubusercontent.com/b57c3840cf0a081794887f66012703b69daf02b52c3c72d6c6893d6ed256638c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c314a397955363141355a78614579656b2f67697068792e676966"  />
+  <img height="150" src="https://media.giphy.com/media/3ohhwyYUsX5sfqK8NO/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/3o7aCZMyxmWD8XHLd6/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/3o7aCZMyxmWD8XHLd6/giphy.gif"  />
   <img height="150" src="https://media.giphy.com/media/3o7aCZMyxmWD8XHLd6/giphy.gif"  />
 </div>
 ###
-
 
   <img src="https://github-readme-stats.vercel.app/api?username=JorgenDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=JorgenDev&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5" height="150" alt="streak graph"  />

@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=RobotoMono&size=25&duration=3000&pause=1000&color=E8E6E3&multiline=true&width=435&height=75&lines=Hi+%F0%9F%91%8B!+My+name+is+Jorgen;I'm+am+eager+webdev+from+Norway" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=RobotoMono&size=25&duration=3000&pause=1000&color=E8E6E3&multiline=true&width=435&height=75&lines=Hi+%F0%9F%91%8B!+My+name+is+Jorgen;I'm+am+full-stack+developer+from+Norway" alt="Typing SVG" /></a>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JorgenDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=JorgenDev&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
